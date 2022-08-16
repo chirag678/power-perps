@@ -1,6 +1,6 @@
 # power-perps
 
-Run the [power_perp_prices.py](./power_perp_prices.py) file to see the graph. Below is a screenshot of the same:
+Kindly clone to the repository and run the [power_perp_prices.py](./power_perp_prices.py) file to view the graph below:
 
 ## **⚡️** Screenshots
 
